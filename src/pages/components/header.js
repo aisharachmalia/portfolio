@@ -5,7 +5,7 @@ export const Header = () => {
         <header>
             <nav>
                 <Link href={'/'}>Home</Link>
-                <Link href={'/blog'}>Blog</Link>
+                <Link href={'/blog'}> My Blog</Link>
             </nav>
         </header>
     )
